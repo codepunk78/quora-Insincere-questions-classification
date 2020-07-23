@@ -1,2 +1,2 @@
 # Quora-Insincere-questions-classification
- A Neuro-linguistic programming(NLP) based project that classify insincere question on quora
+ A Natural Language Processing (NLP) based project that classify insincere question on quora
